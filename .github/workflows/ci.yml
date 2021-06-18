@@ -17,7 +17,7 @@ on:
 defaults:
   # The directory on which to run the tests in
   run:
-    working-directory: ./app
+    working-directory: ./examples/simple-ci
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
